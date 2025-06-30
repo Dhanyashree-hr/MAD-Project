@@ -1,2 +1,2 @@
 # MAD-Project
-Daily Expense
+Daily Expense Tracker
